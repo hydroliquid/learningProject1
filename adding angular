@@ -1,0 +1,13 @@
+
+// needed to use angular on a webpage//
+
+<script src="angular.js"></script>
+
+// add this to a webpage to use angular//
+
+<div ng-app>
+
+  this area controlled by angular!
+</div>
+
+// add this to HTML to use angular//
